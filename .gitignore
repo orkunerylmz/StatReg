@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam klasörleri
+venv/
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Pyre type checker
+.pyre/
+
+# Mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+pyrightconfig.json
+
+# Pylint
+pylint-report.txt
+pylint-global.rc
+
+# Profiling data
+*.prof
+*.pstats
+*.dat
+
+# IDE'ler
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook checkpoint dosyaları
+.ipynb_checkpoints/
+
+# Local dotenv files
+*.env
+*.env.*
+
+# VS Code debug settings
+.vscode/
+
+# MacOS ve sistem dosyaları
+.DS_Store
+Thumbs.db
